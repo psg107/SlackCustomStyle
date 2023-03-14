@@ -1,0 +1,7 @@
+.ql-editor[aria-label^='Message to __notice'] {
+    background: red;
+}
+
+.ql-editor[aria-label^='Message to 박상곤'] {
+    background: red;
+}
